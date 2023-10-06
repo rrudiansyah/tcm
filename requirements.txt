@@ -3,3 +3,7 @@ numpy
 pandas
 pydeck
 streamlit
+streamlit==1.27.0
+matplotlib==3.5.2
+seaborn==0.11.2
+Babel==2.9.1
